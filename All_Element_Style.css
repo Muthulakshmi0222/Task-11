@@ -1,0 +1,77 @@
+body{
+    border: none;
+}
+
+.Title_Style{
+    font-size: 40px;
+    background-color: blanchedalmond;
+    font-family: 'Akronim', cursive;
+    font-weight: bolder;
+}
+.Image_Style{
+      width:40px;
+      border-radius: 50%;
+      margin-left: 100px;
+    }
+.Search_Id{
+        width: 50%;
+        font-size: 18px;
+        padding: 11px;
+        border: 1px solid #ddd;
+        margin-left: 50px;
+      }
+.Background_Style{
+    background-image: linear-gradient(to right top, #23023d, #22023a, #200237, #1f0234, #1e0231, #1e0330, #1f0530, #1f062f, #210931, #220c33, #240e35, #261037);
+    border:none;
+}
+.Combined{
+    display: flex;
+    justify-content: space-between;
+} 
+.Background_Image{
+    background-image:url("https://blog.hubspot.com/hubfs/00-Blog-Related_Images/Untitled%20design%20%2823%29.png");
+    width:100%;
+    height: 300px;
+    
+}   
+.Inbox_Style{
+    border: none;
+    
+}
+
+.ImageStyle1{
+     height: 450px;
+     margin-top: 30px;
+     width: 500px;
+}
+.Text_Style1{
+    font-size: 40px;
+    font-family:'Akronim', cursive;
+    margin-top: 200px;
+    text-align: center;
+    padding:8px;
+    color: crimson;
+}
+
+h2{
+    text-align: center;
+    margin-top: 20px;
+    color:purple;
+    
+}
+.Login_Style{
+    text-align: center;
+    background-image: url("https://www.setaswall.com/wp-content/uploads/2017/06/Blur-Wallpapers-28-2560-x-1600.jpg");
+    height: 550px;
+    width: 100%;
+    color:teal;
+    font-weight: bolder;
+    font-size: 20px;
+   }
+   p{
+       margin-left:50rem;
+       font-size: 10px;
+   }
+   .Button{
+       margin-left: 10rem;
+   }
